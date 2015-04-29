@@ -1,1 +1,4 @@
-name, date, description
+Jacinda Ballantyne, 4/29/15 
+Description: This program produces a tetrahedron that is lighted. 
+A shadow of this tetrahedron is projected onto a rectangle using shadow mapping.
+Note: use Matsuda lib files (webgl-utils, webgl-debug, cuon-utils, cuon-matrix)
