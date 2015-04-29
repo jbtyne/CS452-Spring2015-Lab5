@@ -1,3 +1,5 @@
+// Jacinda Ballantyne, 4/29/15
+// lab5.js
 var SHADOW_VSHADER_SOURCE =
   'attribute vec4 a_Position;\n' +
   'uniform mat4 u_MvpMatrix;\n' +
